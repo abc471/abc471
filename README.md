@@ -13,5 +13,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/abc471/abc471.git
+git remote add origin https://m.facebook.com/login/?refsrc=deprecated&_rdr
 git push -u origin main
